@@ -88,8 +88,8 @@ Now let's get first 5 posts from r/aww which are in hot.
 
 ### TO-DO
 - API Now serves only hot Posts. In future I'll try to add top and new sort methods to the API.
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://www.iamroyakash.com/contact)
-You are very welcome to contribute. Check the To-do to get the idea what this project needs. Start contributing by making a issue [here]().
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/theroyakash/reddit-api/issues)
+You are very welcome to contribute. Check the To-do to get the idea what this project needs. Start contributing by making a issue [here](https://github.com/theroyakash/reddit-api/issues).
 
 License
 ----
