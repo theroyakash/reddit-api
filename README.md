@@ -1,6 +1,9 @@
 # Reddit API by theroyakash
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Python3](https://img.shields.io/badge/python-3.7-blue.svg)](https://github.com/theroyakash/reddit-api)
+[![GitHub license](https://img.shields.io/badge/LICENSE-GNU-orange)](https://github.com/theroyakash/reddit-api/blob/master/LICENSE)
+[![Discord Server](https://img.shields.io/badge/Support-theroyakash-red)](https://www.iamroyakash.com/contact)
 
 Sophisticated Reddit API for free. Unlimited calls for memes, cute cat pictures, and anything you can find on reddit.
 
