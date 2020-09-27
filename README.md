@@ -9,7 +9,7 @@ Sophisticated Reddit API for free. Unlimited calls for memes, cute cat pictures,
 
 # Make your apps with Reddit API
 ### URL
-`GET https://getredditapi.theroyakash.repl.co/api/v1?r={subreddit}&limit={count}`.
+`GET https://theroyakashapis.herokuapp.com/reddit/v1?r={subreddit}&limit={count}`.
 ### Arguments
 - `subreddit` name. For example: dankmemes, aww, pics etc.
 - `limit` - Total number of result that you want to get. (Maximum of 100 per search)
@@ -17,7 +17,7 @@ Sophisticated Reddit API for free. Unlimited calls for memes, cute cat pictures,
 ### Examples
 For example to get 4 hot posts in subreddit `dankmemes`use the following link for `GET` request
 
-`GET http://getredditapi.theroyakash.repl.co/api/v1/?r=dankmemes&limit=4`
+`GET https://theroyakashapis.herokuapp.com/reddit/v1?r=dankmemes&limit=4`
 
 ### Returns
 ```json
@@ -51,7 +51,7 @@ For example to get 4 hot posts in subreddit `dankmemes`use the following link fo
 ### Example in r/aww
 
 Now let's get first 5 posts from r/aww which are in hot.
-`GET http://getredditapi.theroyakash.repl.co/api/v1/?r=aww&limit=5`
+`GET https://theroyakashapis.herokuapp.com/reddit/v1/?r=aww&limit=5`
 
 ### Returns
 ```JSON
